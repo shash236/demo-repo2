@@ -2,3 +2,6 @@
 
 some stuff
 
+## gitbranching 
+
+how to git branch
